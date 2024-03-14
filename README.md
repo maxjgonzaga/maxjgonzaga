@@ -12,7 +12,7 @@
 💻 Desenvolvendo habilidades em Python
 
 <br>
-
+## Onde me encontrar
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxlonio/)
 
  <br>
@@ -22,4 +22,7 @@
 <a href="https://github.com/maxjgonzaga" title="Perfil de Max Gonzaga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxjgonzaga&theme=dark&hide_icons=true"/>
 </a>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" title="Snake game" width="800px">
+</p>
 
