@@ -1,5 +1,5 @@
 ## Sobre Mim
-
+<p>
 - ⚡ Estudante Front-End e Back-End
 - 🔭 Analista Help Desk / Infraestrutura de TI / Suporte Técnico a mais de 15 anos
 - 👨‍🎓 Atualmente estou cursando Pythonista Autodidata / Mestre da Automação / Analista de Dados na DEV APRENDER
@@ -8,7 +8,7 @@
 - 👨‍💻 Formado em Sistemas de Informação e Licenciatura em Computação
 - 🌱 Estou buscando minha primeira oportunidade profissional em programação.
 - 🐍 Desenvolvendo habilidades em Python
-
+</p>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
