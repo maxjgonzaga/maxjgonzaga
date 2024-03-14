@@ -2,8 +2,8 @@
 
 - Estudante Front-End e Back-End
 - Analista Help Desk / Infraestrutura de TI / Suporte Técnico a mais de 15 anos
-- Cursando Pythonista Autodidata / Mestre da Automação / Analista de Dados na DEV APRENDER
-- Cursando Análise de Dados na DataScience
+- 🌱 Atualmente estou cursando Pythonista Autodidata / Mestre da Automação / Analista de Dados na DEV APRENDER
+- 🌱 Atualmente estou cursando Análise de Dados na DataScience
 - ❤️ Explorando novas tecnologias e desenvolvendo soluções de software
 - Transição de Carreira
 - Formado em Sistemas de Informação e Licenciatura em Computação
