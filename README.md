@@ -1,7 +1,25 @@
-###Olá 👋
-Eu me chamo Max Gonzaga, sou formado em Sistemas de Informação e Licenciatura em Computação. Trabalho há mais de 15 anos como Analista de Suporte em TI onde já desempenhei diversas funções ligadas à administração de infraestrutura Help Desk e Service Desk. 
+## Sobre Mim
 
-No momento venho estudando e me preparando para fazer uma transição de carreira para ambiente de desenvolvimento. Quero aproveitar o momento de estudos e estar compartilhando scripts e projetos desenvolvidos como nos cursos Mestre Pythonista do @DEVEAPRENDER e Fundamentos de Linguagem Python para Análise de Dados da DataScience. 
+- Estudante Front-End e Back-End
+- Analista Help Desk / Infraestrutura de TI / Suporte Técnico a mais de 15 anos
+- Cursando Pythonista Autodidata / Mestre da Automação / Analista de Dados na DEV APRENDER
+- Cursando Análise de Dados da DataScience
+- Explorando novas tecnologias e desenvolvendo soluções de software
+- Transição de Carreira
+- Formado em Sistemas de Informação e Licenciatura em Computação
+- Estou buscando minha primeira oportunidade profissional em programação.
 
 💻 Desenvolvendo habilidades em Python
+
+<br>
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxlonio/)
+
+ <br>
+
+## GitHub Analytics
+
+<a href="https://github.com/maxjgonzaga" title="Perfil de Max Gonzaga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxjgonzaga&theme=dark&hide_icons=true"/>
+</a>
 
