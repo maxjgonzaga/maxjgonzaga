@@ -1,14 +1,13 @@
 ## Sobre Mim
 
-- Estudante Front-End e Back-End
-- Analista Help Desk / Infraestrutura de TI / Suporte Técnico a mais de 15 anos
-- 🌱 Atualmente estou cursando Pythonista Autodidata / Mestre da Automação / Analista de Dados na DEV APRENDER
-- 🌱 Atualmente estou cursando Análise de Dados na DataScience
-- ❤️ Explorando novas tecnologias e desenvolvendo soluções de software
-- Transição de Carreira
-- Formado em Sistemas de Informação e Licenciatura em Computação
-- Estou buscando minha primeira oportunidade profissional em programação.
-- 💻 Desenvolvendo habilidades em Python
+- ⚡ Estudante Front-End e Back-End
+- 🔭 Analista Help Desk / Infraestrutura de TI / Suporte Técnico a mais de 15 anos
+- 👨‍🎓 Atualmente estou cursando Pythonista Autodidata / Mestre da Automação / Analista de Dados na DEV APRENDER
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software
+- 🚀 Transição de Carreira
+- 👨‍💻 Formado em Sistemas de Informação e Licenciatura em Computação
+- 🌱 Estou buscando minha primeira oportunidade profissional em programação.
+- 🐍 Desenvolvendo habilidades em Python
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
